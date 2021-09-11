@@ -1,0 +1,10 @@
+.delete {
+  border: none;
+  background-color: honeydew;
+  color: darkolivegreen;
+}
+
+delete:hover {
+  background-color: antiquewhite;
+  color: darkolivegreen;
+}
